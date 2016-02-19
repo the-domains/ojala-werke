@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OJALA WERKE Designbüro]]></title>
+        <description><![CDATA[OJALA WERKE Designbüro]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 09:41:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5720e547-cfbe-40aa-8a49-b9051f7e7434.jpg">]]></description>
+            <link>undefineda7cb0ce5-ddac-48e9-b762-cbc103421ac3/index.html</link>
+            <guid isPermaLink="false">a7cb0ce5-ddac-48e9-b762-cbc103421ac3</guid>
+            <pubDate>Fri, 19 Feb 2016 09:35:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

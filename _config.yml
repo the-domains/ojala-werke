@@ -1,7 +1,7 @@
 name: OJALA WERKE
 favicon: null
-layout_spectrum: 0.601521119242534
-typography_spectrum: 0.6033935910090804
+layout_spectrum: 0.30527
+typography_spectrum: 0.84678
 title: OJALA WERKE Designbüro
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#424242'
+    - '#e1e1e1'
+    - '#6e6e6e'
+    - '#b5b5b5'
   brandStrength: 0.9781366339884698
   lightness: 0.6136540691368282
   saturation: 0.45278075407259166
